@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jul 16 20:41:08 2020
+Edited by Kaeden Brinkman
 
 @author: Quang Nguyen
 """
@@ -11,7 +12,7 @@ and cfg/yolov4_custom_test.cfg
 
 """
 
-classes=4
+classes=16
 max_batches=8000
 batch=64
 subdivisions=16
